@@ -34,3 +34,12 @@ Input: s = "()[]{}"
 
 Output: true
 
+
+1.In this question must compulsory if any parentheses is open that should ne closed
+if it is then return true othewise return false
+
+
+2.way to solve:
+--create a stack ,used bacuase stack have LIFO property
+so ,we can easily detect the closed parentheses for opened parenthesis
+--
