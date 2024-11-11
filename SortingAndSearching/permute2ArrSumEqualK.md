@@ -1,3 +1,6 @@
+# This problem is also called permutation in an array
+----------------------------------------------------------------
+
 # Examples
 Input : a[] = {2, 1, 3}, 
         b[] = { 7, 8, 9 }, 
