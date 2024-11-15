@@ -9,6 +9,13 @@ Example 2:
 
 Input: head = [2,1], x = 2
 Output: [1,2]
+----------------------------------------------------------------
+The idea is to use two pointers (or references) to create two separate linked lists:
+
+One for nodes with values less than x
+Another for nodes with values greater than or equal to x
+At the end, we can combine the two linked lists to get the desired result.
+----------------------------------------------------------------
 ```
 class Solution {
     public ListNode partition(ListNode head, int x) {
