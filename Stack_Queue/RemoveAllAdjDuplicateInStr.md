@@ -9,6 +9,9 @@ Example 2:
 
 Input: s = "azxxzy"
 Output: "ay"
+
+# Explanation
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/solutions/294893/JavaC++Python-Two-Pointers-and-Stack/
 ```
 class Solution {
     public String removeDuplicates(String s) {
