@@ -33,3 +33,7 @@ class Solution {
 }
 
 ```
+
+# This problem is exalty similar with this
+```
+783. Minimum Distance Between BST Nodes```
